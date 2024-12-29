@@ -1,0 +1,6 @@
+crewai
+pandas
+matplotlib
+requests
+beautifulsoup4
+fpdf

@@ -1,0 +1,98 @@
+[
+    {
+        "username": "creator1",
+        "followers": 3938,
+        "avg_tweets_per_day": 17,
+        "tweets": [
+            {
+                "tweet_id": "creator1_tweet_0",
+                "content": "Sample tweet content 0 from creator1",
+                "replies": 43
+            },
+            {
+                "tweet_id": "creator1_tweet_1",
+                "content": "Sample tweet content 1 from creator1",
+                "replies": 8
+            },
+            {
+                "tweet_id": "creator1_tweet_2",
+                "content": "Sample tweet content 2 from creator1",
+                "replies": 32
+            },
+            {
+                "tweet_id": "creator1_tweet_3",
+                "content": "Sample tweet content 3 from creator1",
+                "replies": 29
+            },
+            {
+                "tweet_id": "creator1_tweet_4",
+                "content": "Sample tweet content 4 from creator1",
+                "replies": 18
+            }
+        ]
+    },
+    {
+        "username": "creator2",
+        "followers": 2300,
+        "avg_tweets_per_day": 11,
+        "tweets": [
+            {
+                "tweet_id": "creator2_tweet_0",
+                "content": "Sample tweet content 0 from creator2",
+                "replies": 5
+            },
+            {
+                "tweet_id": "creator2_tweet_1",
+                "content": "Sample tweet content 1 from creator2",
+                "replies": 49
+            },
+            {
+                "tweet_id": "creator2_tweet_2",
+                "content": "Sample tweet content 2 from creator2",
+                "replies": 7
+            },
+            {
+                "tweet_id": "creator2_tweet_3",
+                "content": "Sample tweet content 3 from creator2",
+                "replies": 14
+            },
+            {
+                "tweet_id": "creator2_tweet_4",
+                "content": "Sample tweet content 4 from creator2",
+                "replies": 6
+            }
+        ]
+    },
+    {
+        "username": "creator3",
+        "followers": 6200,
+        "avg_tweets_per_day": 10,
+        "tweets": [
+            {
+                "tweet_id": "creator3_tweet_0",
+                "content": "Sample tweet content 0 from creator3",
+                "replies": 3
+            },
+            {
+                "tweet_id": "creator3_tweet_1",
+                "content": "Sample tweet content 1 from creator3",
+                "replies": 28
+            },
+            {
+                "tweet_id": "creator3_tweet_2",
+                "content": "Sample tweet content 2 from creator3",
+                "replies": 27
+            },
+            {
+                "tweet_id": "creator3_tweet_3",
+                "content": "Sample tweet content 3 from creator3",
+                "replies": 13
+            },
+            {
+                "tweet_id": "creator3_tweet_4",
+                "content": "Sample tweet content 4 from creator3",
+                "replies": 2
+            }
+        ]
+    }
+]
